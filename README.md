@@ -1,34 +1,33 @@
-# Web Development Final Project - *Name of App Here*
+# Web Development Final Project - *Imperfect Intentions*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jules-Elvin Andrade**
 
-This web app: **insert description**
+This web app is a full stack web application that allows users to share any personal projects, thoroughly thought out or just on the fly! Users can recieve feedback and upvote posts they'd like other users to see more of.
 
-Time spent: **X** hours spent in total
+Time spent: **16** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-
-- [ ] **Web app includes a create form that allows the user to create posts**
+- [X] **Web app includes a create form that allows the user to create posts**
   - Form requires users to add a post title
   - Forms should have the *option* for users to add: 
     - additional textual content
     - an image added as an external image URL
-- [ ] **Web app includes a home feed displaying previously created posts**
+- [X] **Web app includes a home feed displaying previously created posts**
   - Web app must include home feed displaying previously created posts
   - By default, each post on the posts feed should show only the post's:
-    - creation time
+    - creation time ****
     - title 
     - upvotes count
   - Clicking on a post should direct the user to a new page for the selected post
-- [ ] **Users can view posts in different ways**
+- [X] **Users can view posts in different ways** 
   - Users can sort posts by either:
-    -  creation time
+    -  creation time 
     -  upvotes count
-  - Users can search for posts by title
-- [ ] **Users can interact with each post in different ways**
+  - Users can search for posts by title 
+- [X] **Users can interact with each post in different ways**
   - The app includes a separate post page for each created post when clicked, where any additional information is shown, including:
     - content
     - image
@@ -38,7 +37,7 @@ The following **required** functionality is completed:
     - Each click increases the post's upvotes count by one
     - Users can upvote any post any number of times
 
-- [ ] **A post that a user previously created can be edited or deleted from its post pages**
+- [X] **A post that a user previously created can be edited or deleted from its post pages**
   - After a user creates a new post, they can go back and edit the post
   - A previously created post can be deleted from its post page
 
@@ -61,30 +60,22 @@ The following **optional** features are implemented:
   - Users can upload images directly from their local machine as an image file
 - [ ] Web app displays a loading animation whenever data is being fetched
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you added to improve the site's functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with Kap (... but it's okay if it doesn't work this time) 
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+With this being the culmination of everything that we've learned, it was definitely a heavy task - but I found it in myself to pursue something that I felt would cater to people of all demographics, even if the bubble of what I could do experiment was a little more confined! I really enjoyed taking bits and pieces from all of my projects that I had developed previously and merging them all into this one last project for Codepath :)
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [jules!]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
